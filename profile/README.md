@@ -35,7 +35,7 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 | **Emad Ahmed** | Frontend Developer | [@Emad8554](https://github.com/Emad8554) |
 | **Mohamed Hamdy** | AI Developer & ML Researcher | [@MHamdy24](https://github.com/MHamdy24) |
 | **Mohamed Mostafa** | UI/UX Designer | — |
-| **Mohamed Yasser** | UI/UX Designer | — |
+| **Mohamed Yasser** | UI/UX Designer | [@mo-yasser19](https://github.com/mo-yasser19) |
 
 ---
 
