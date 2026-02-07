@@ -36,9 +36,6 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 | **Mohamed Hamdy** | AI Developer & ML Researcher | — |
 | **Mohamed Mostafa** | UI/UX Designer | — |
 | **Mohamed Yasser** | UI/UX Designer | — |
-|—|—|—|
-|—|—|—|
-|—|—|—|
 
 ---
 
