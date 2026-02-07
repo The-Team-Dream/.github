@@ -41,13 +41,17 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 
 ## 🛠 Tech Stack
 
-### Frontend
-- React
-- Next.js
-
 ### Backend
 - Node.js
 - NestJS
+
+### Mobile
+- Dart
+- Flutter
+
+### Frontend
+- React
+- Next.js
 
 ### Database
 - PostgreSQL
