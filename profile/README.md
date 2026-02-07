@@ -75,7 +75,7 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 
 ## 📌 Contribution Guidelines
 
-1. Create a new feature branch from `mail`
+1. Create a new feature branch from `main`
 2. Commit changes with clear messages
 3. Open a Pull Request
 4. Address review comments
