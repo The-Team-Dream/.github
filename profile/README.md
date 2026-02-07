@@ -29,7 +29,7 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 | Name | Role | GitHub |
 |-----|------|--------|
 | **Mohamed Hamad** | Team King & Backend Developer | [@mohamed-swilam](https://github.com/mohamed-swilam) |
-| **Waad Nagy** |Team Queen & Flutter & Mobile Developer | [@wa3dnagy](https://github.com/wa3dnagy) |
+| **Waad Nagy** |Team Queen & Mobile Developer | [@wa3dnagy](https://github.com/wa3dnagy) |
 |—|—|—|
 | **Baraa Emad** | Malware Analyst & Security Researcher | [@Baraa-Emad](https://github.com/Baraa-Emad) |
 | **Shahd Walid** | Frontend Developer | [@ShahdWa](https://github.com/ShahdWa) |
