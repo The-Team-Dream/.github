@@ -28,7 +28,7 @@ The project focuses on **security, privacy, and reliability**, combining modern 
 
 | Name | Role | GitHub |
 |-----|------|--------|
-| **Mohamed Hamad** | Backend Developer & Security | [@mohamed-swilam](https://github.com/mohamed-swilam) |
+| **Mohamed Hamad** | Team Leader & Backend Developer | [@mohamed-swilam](https://github.com/mohamed-swilam) |
 | **Waad Nagy** | Flutter & Mobile Developer | [@mohamed-swilam](https://github.com/mohamed-swilam) |
 | **Baraa Emad** | Malware Analyst & Security Researcher | [@Baraa-Emad](https://github.com/Baraa-Emad) |
 | **Shahd Walid** | Frontend Developer | [@ShahdWa](https://github.com/ShahdWa) |
