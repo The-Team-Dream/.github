@@ -13,24 +13,16 @@ This organization hosts all repositories related to the **SecureMail** project.
 
 ## Teams & Members
 
-### ⚙️ Backend Team
-- ![mohamed-swilam](https://github.com/mohamed-swilam.png?size=40) **Mohamed Hamad** – Backend Developer & Security ([Profile](https://github.com/mohamed-swilam))
-- ![mohamed-swilam](https://github.com/mohamed-swilam.png?size=40) **Mohamed Hamad** – Flutter & Mobile Developer ([Profile](https://github.com/mohamed-swilam))
+- Mohamed Hamad – Backend Developer & Security ([@mohamed-swilam](https://github.com/mohamed-swilam))
+- Waad Nagy – Flutter & Mobile Developer ([@mohamed-swilam](https://github.com/mohamed-swilam))
+- Baraa Emad – Malware Analyst & Security Researcher ([@Baraa-Emad](https://github.com/Baraa-Emad))
+- Shahd Walid – Frontend Developer ([@ShahdWa](https://github.com/ShahdWa))
+- Emad Ahmed – Frontend Developer ([@Emad8554](https://github.com/Emad8554))
+- Mohamed Mostafa – UI/UX Designer ([@](#))
+- Mohamed Yasser – UI/UX Designer ([@](#))
+- Mohamed Hamdy – AI Developer & ML Research ([@](#))
 
-### 🦠 Malware Analysis Team
-- ![Baraa-Emad](https://github.com/Baraa-Emad.png?size=40) **Baraa Emad** – Malware Analyst & Security Researcher ([Profile](https://github.com/Baraa-Emad))
-
-### 🎨 Frontend Team
-- ![ShahdWa](https://github.com/ShahdWa.png?size=40) **Shahd Walid** – Frontend Developer ([Profile](https://github.com/ShahdWa))
-- ![Emad8554](https://github.com/Emad8554.png?size=40) **Emad Ahmed** – Frontend Developer ([Profile](https://github.com/Emad8554))
-
-### 🖌️ UI/UX Team
-- ![placeholder](https://via.placeholder.com/40) **Mohamed Mostafa** – UI/UX Designer
-- ![placeholder](https://via.placeholder.com/40) **Mohamed Yasser** – UI/UX Designer
-
-### 🤖 AI / ML Team
-- ![placeholder](https://via.placeholder.com/40) **Mohamed Hamdy** – AI Developer & ML Research
-
+---
 ---
 
 ## Workflow
