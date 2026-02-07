@@ -11,11 +11,23 @@ This organization hosts all repositories related to the **SecureMail** project.
 
 ---
 
-## Teams
-- Frontend Team
-- Backend Team
-- AI / ML Team
-- Malware Analysis Team
+## Teams & Members
+
+### 🎨 Frontend Team
+- Emad Ahmed – Frontend Developer ([@Emad8554](https://github.com/Emad8554))
+- Shahd Walid – Frontend Developer ([@ShahdWa](https://github.com/ShahdWa))
+- Mohamed Mostafa – UI/UX Designer ([@](#))
+- Mohamed Yasser – UI/UX Designer ([@](#))
+
+### ⚙️ Backend Team
+- Mohamed Hamad – Backend Developer & Security ([@mohamed-swilam](https://github.com/mohamed-swilam))
+
+### 🤖 AI / ML Team
+- Mohamed Hamdy – AI Developer & ML Research ([@](#))
+
+### 🦠 Malware Analysis Team
+- Baraa Emad – Malware Analyst & Security Researcher ([@Baraa-Emad](https://github.com/Baraa-Emad))
+
 
 ---
 
