@@ -28,9 +28,10 @@ This organization hosts all repositories related to the **SecureMail** project.
 
 ## Tech Stack
 - Frontend: React / Next.js
-- Backend: Node.js / Express
-- Database: MongoDB
-- AI & Malware Analysis: Python
+- Backend: Node.js / Nestjs
+- Database: PostgreSql
+- AI : Python
+- Malware Analysis : Go
 
 ---
 
